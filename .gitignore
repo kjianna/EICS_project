@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Large datasets
+data/raw/
+
+# Seurat / Scanpy
+*.rds
+*.h5
+*.h5ad
+*.loom
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
