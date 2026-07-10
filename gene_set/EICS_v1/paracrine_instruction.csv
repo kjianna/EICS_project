@@ -1,0 +1,22 @@
+﻿Gene,Category,Subcategory,Evidence,Priority
+NRG1,Paracrine,Neuregulin,CM maturation,Core
+IGF2,Paracrine,IGF,CM proliferation,Core
+BMP2,Paracrine,BMP,Trabeculation,Core
+BMP4,Paracrine,BMP,Trabeculation,Core
+BMP10,Paracrine,BMP,Cardiac development,Core
+WNT2,Paracrine,WNT,Heart morphogenesis,Core
+WNT5A,Paracrine,WNT,Developmental signaling,Support
+FGF9,Paracrine,FGF,CM proliferation,Core
+FGF16,Paracrine,FGF,Cardiac growth,Support
+INHBA,Paracrine,TGFβ,Developmental signaling,Candidate
+INHBB,Paracrine,TGFβ,Developmental signaling,Support
+DLL4,Paracrine,Notch,EC specification,Core
+JAG1,Paracrine,Notch,EC-CM signaling,Core
+JAG2,Paracrine,Notch,Support,Support
+EFNB2,Paracrine,Ephrin,Arterial EC,Core
+EFNA1,Paracrine,Ephrin,Cell communication,Support
+CXCL12,Paracrine,Chemokine,Stem cell niche,Core
+PDGFB,Paracrine,Growth factor,Vessel maturation,Core
+EDN1,Paracrine,Endothelin,Endothelial signaling,Core
+HBEGF,Paracrine,EGF,Growth factor,Support
+VEGFA,Paracrine,VEGF,Angiogenesis,Core

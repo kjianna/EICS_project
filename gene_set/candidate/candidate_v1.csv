@@ -1,0 +1,11 @@
+﻿Gene,Detected_in,Reason,Status
+WNT2,Cui,Cluster1 enriched,Candidate
+INHBA,Cui,Cluster1 enriched,Candidate
+CXCL12,Cui,Cluster2 enriched,Candidate
+PDGFB,Cui,Cluster2 enriched,Candidate
+EFNB2,Cui,Cluster3 enriched,Candidate
+EFNA1,Cui,Cluster3 enriched,Candidate
+EDN1,Cui,Cluster3 enriched,Candidate
+CA4,Cui,Capillary EC marker,Reference
+FABP4,Cui,Metabolic EC marker,Reference
+GPIHBP1,Cui,Metabolic EC marker,Reference

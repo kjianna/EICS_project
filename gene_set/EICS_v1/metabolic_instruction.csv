@@ -1,0 +1,11 @@
+﻿Gene,Category,Subcategory,Priority
+FABP4,Lipid transport,Fatty acid,Core
+CD36,Lipid transport,Fatty acid,Core
+CA4,Capillary metabolism,Carbonic anhydrase,Core
+GPIHBP1,Lipid metabolism,Lipoprotein uptake,Core
+PLVAP,Transcytosis,Fenestration,Core
+ACE,Vascular metabolism,RAS,Core
+APOD,Lipid carrier,Lipoprotein,Support
+IGFBP7,Secreted protein,Metabolism,Support
+RAMP2,Endothelial homeostasis,GPCR,Support
+ADM,Vascular tone,Peptide hormone,Support

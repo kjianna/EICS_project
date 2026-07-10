@@ -1,0 +1,11 @@
+﻿Gene,Category,Subcategory,Priority
+KLF2,Flow sensing,Shear stress,Core
+KLF4,Flow sensing,Shear stress,Support
+PIEZO1,Mechanosensor,Stretch,Core
+NOS3,Mechanosensor,eNOS,Core
+YAP1,Hippo,Mechanotransduction,Core
+WWTR1,Hippo,TAZ,Core
+TEAD1,Hippo,Transcription,Core
+CX43,Gap junction,Mechanical coupling,Support
+GJA1,Gap junction,Connexin43,Support
+ENG,Mechanotransduction,TGFβ receptor,Support
